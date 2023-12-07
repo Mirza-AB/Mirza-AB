@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mirza
-- 👀 I’m interested in Programing 
-- 🌱 I’m currently learning Advance Programing 
-- 💞️ I’m looking to collaborate on Software Development 
+- 👀 I’m interested in Cybersecurity 
+- 🌱 I’m currently persuing Google Cybersecurity Professional Certificate
+- 💞️ I’m looking to collaborate on Cyber Issues 
 - 📫 How to reach me adnanmirza0786@gmail.com
 
 <!---
